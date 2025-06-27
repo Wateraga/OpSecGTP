@@ -96,9 +96,9 @@ rule Persistence_Loader
 
 ---
 
-A curated YARA rule set designed for offensive and defensive security professionals to detect encoded payloads, malicious persistence, and credential theft artifacts across Windows environments.
+# A curated YARA rule set designed for offensive and defensive security professionals to detect encoded payloads, malicious persistence, and credential theft artifacts across Windows environments.
 
-Included Rule Summaries:
+## Included Rule Summaries:
 Rule Name	Purpose
 Temp_Encoded_Payload	Detects Base64-encoded PowerShell stagers, JWTs, and C2 IPs in temp
 LNK_StageLauncher	Flags .lnk shortcut files that silently execute hidden script loaders
