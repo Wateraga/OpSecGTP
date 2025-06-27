@@ -96,7 +96,7 @@ rule Persistence_Loader
 
 ---
 
-> A curated YARA rule set designed for offensive and defensive security professionals to detect encoded payloads, malicious persistence, and credential theft artifacts across Windows environments.
+# H1 A curated YARA rule set designed for offensive and defensive security professionals to detect encoded payloads, malicious persistence, and credential theft artifacts across Windows environments.
 
 ## Included Rule Summaries:
 Rule Name	Purpose
